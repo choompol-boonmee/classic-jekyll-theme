@@ -26,6 +26,6 @@ github_username:  jekyll
 markdown: kramdown
 keep_files: [assets, icons]
 exclude: [README.md]
-theme: classic-jekyll-theme
+#theme: classic-jekyll-theme
 plugins:
   - jekyll-feed
