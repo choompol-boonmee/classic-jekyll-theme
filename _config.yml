@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Classic Jekyll Theme
-email: your-email@domain.com
+title: บันทึกประจำวัน
+email: dr.choompol.boonmee@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   All you ever needed in a theme...
-baseurl: "/classic-jekyll-theme" # the subpath of your site, e.g. /blog note that it must _also_ be defined in classic-jekyll-theme.scss!
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+#baseurl: "/classic-jekyll-theme" # the subpath of your site, e.g. /blog note that it must _also_ be defined in classic-jekyll-theme.scss!
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 markdown: kramdown
